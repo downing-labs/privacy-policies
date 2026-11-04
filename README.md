@@ -7,6 +7,9 @@ Live index: https://downing-labs.github.io/privacy-policies/
 | App | Description | Privacy Policy |
 |---|---|---|
 | Flick Football | Flick a football into trash cans, crates, and cups with dynamic wind physics, lighting shifts, obstacles, and leaderboards. | https://downing-labs.github.io/privacy-policies/flick-football/ |
+| Sleep Noise | Plays a looping ambient water sound to help with sleep. | https://downing-labs.github.io/privacy-policies/sleep-noise/ |
+
+Sleep Noise's live App Store / Play Console listings still point at the original `damon-downing/sleep-noise-privacy` repo for now — that one stays up until the listings are repointed here.
 
 ## Adding a new app
 
